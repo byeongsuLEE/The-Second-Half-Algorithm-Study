@@ -1,9 +1,12 @@
 import java.io.BufferedReader;
+<<<<<<< HEAD
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 import java.io.BufferedReader;
+=======
+>>>>>>> c58b718454336e8eb8f3f771c432481e5055c1da
 import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.StringTokenizer;
@@ -46,4 +49,8 @@ public class BOJ_18114 {
         }
         System.out.println(0);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c58b718454336e8eb8f3f771c432481e5055c1da
