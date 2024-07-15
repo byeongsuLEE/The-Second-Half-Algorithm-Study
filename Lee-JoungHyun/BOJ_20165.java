@@ -95,4 +95,3 @@ public class BOJ_20165 {
 		}
 	}
 }
-출처: https://moons-memo.tistory.com/79 [devmoon 알고리즘:티스토리]
