@@ -1,5 +1,3 @@
-package baekjoon.silver.Num22781;
-
 import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
