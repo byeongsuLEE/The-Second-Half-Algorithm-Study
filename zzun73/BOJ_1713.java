@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class BOJ_1713 {
     static class Candidate implements Comparable<Candidate> {
         int id;
         int votes;
