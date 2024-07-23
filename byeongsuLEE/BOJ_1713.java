@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class Main {
-
+ 
     static class Student implements Comparable<Student> {
         int index; // 학생의 인덱스
         int count; // 추천받은 수
