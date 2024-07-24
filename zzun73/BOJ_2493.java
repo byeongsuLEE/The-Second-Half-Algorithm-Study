@@ -1,9 +1,7 @@
-package baekjoon.gold.Num02493;
-
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class BOJ_2493 {
     static class Top {
         int height;
         int idx;
