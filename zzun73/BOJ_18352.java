@@ -1,5 +1,3 @@
-package baekjoon.silver.Num18352;
-
 import java.io.*;
 import java.util.*;
 
