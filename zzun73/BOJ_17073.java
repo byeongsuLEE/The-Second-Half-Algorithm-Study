@@ -17,7 +17,7 @@ public class Main {
     static long[] water;
     static Node root;
 
-    public static void main(String[] args) {
+    public static void BOJ_17073(String[] args) {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st;
