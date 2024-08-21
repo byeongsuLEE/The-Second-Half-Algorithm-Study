@@ -21,7 +21,7 @@ public class Main_2115 {
         visited = new boolean[R][C][4]; // 상하좌우 방향별로 방문 체크
 
         for (int i = 0; i < R; i++) {
-            map[i] = br.readLine().toCharArray();
+            map[i] = br.readLine().toCharArray(); 
         }
 
         // 각 빈 공간을 탐색하여 그림을 걸 수 있는지 확인
